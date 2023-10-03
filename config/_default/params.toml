@@ -14,6 +14,7 @@ enableCodeCopy = false
 enableImageLazyLoading = true
 
 # robots = ""
+enableRobotsTXT = false
 fingerprintAlgorithm = "sha256"
 
 [header]
