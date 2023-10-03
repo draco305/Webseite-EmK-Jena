@@ -20,7 +20,6 @@ Liebe Schwestern und Brüder! Liebe Freunde!
 Jesus fragt seine Jünger, was denn die Leute über ihn sagen. Er bekommt verschiedene Antworten: Johannes der Täufer, Elia, Jeremia oder einer der Propheten.
 
 Die Frage ist aber gar nicht entscheidend. Viel wichtiger ist die zweite Frage Jesu. 
-<!-- more -->
 »Wer sagt denn ihr, dass ich sei?« Jesus möchte nicht wissen, was die Allgemeinheit über ihn denkt, sondern sein engster Kreis. 
 Wenn wir die Bibel auf unser Leben beziehen, dann gilt die Frage auch uns. Wer ist Jesus für Dich?
 
