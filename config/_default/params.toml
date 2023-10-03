@@ -30,7 +30,7 @@ fingerprintAlgorithm = "sha256"
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
-  showRecent = true
+  showRecent = false
   recentLimit = 3
 
 [article]
