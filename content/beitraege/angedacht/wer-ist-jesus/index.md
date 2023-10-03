@@ -1,18 +1,14 @@
----
-title : 'Wer ist Jesus für Dich?'
-subtitle : 'Angedacht zum Bibelwort im Monat September'
-summary: 'Jesus fragt seine Jünger, was denn die Leute über ihn sagen. Er bekommt verschiedene Antworten: Johannes der Täufer, Elia, Jeremia oder einer der Propheten.
-Die Frage ist aber gar nicht entscheidend. Viel wichtiger ist die zweite Frage Jesu.'
-category : 'Angedacht'
-date : 2023-09-01T20:38:52+02:00
-show_reading_time: true
-featured_image: 'beitraege/ana-municio-stones-unsplash.jpg'
-type: 'single'
-authors: 
-- 'zieboll'
-taxonomyLink: 
-showBreadcrumbs: true
----
++++
+title = 'Wer ist Jesus für Dich?'
+subtitle = 'Angedacht zum Bibelwort im Monat September'
+summary = 'Jesus fragt seine Jünger, was denn die Leute über ihn sagen. Er bekommt verschiedene Antworten: Johannes der Täufer, Elia, Jeremia oder einer der Propheten. Die Frage ist aber gar nicht entscheidend. Viel wichtiger ist die zweite Frage Jesu.'
+category = 'Angedacht'
+date = 2023-09-01T20:38:52+02:00
+show_reading_time = true
+featured_image = 'beitraege/ana-municio-stones-unsplash.jpg'
+type ='single'
+authors = ['zieboll']
++++
 
 ## Bibelwort für den Monat September
  

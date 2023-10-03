@@ -1,14 +1,13 @@
----
-title : 'Hören und Tun ergänzen sich'
-subtitle : 'Angedacht zum Bibelwort im Monat Oktober'
-category : 'Angedacht'
-date : 2023-09-20T00:00:00+02:00
-show_reading_time: true
-featured_image: 'beitraege/ana-municio-stones-unsplash.jpg'
-type: 'single'
-authors: 
-- 'zieboll'
----
++++
+title = 'Hören und Tun ergänzen sich'
+subtitle = 'Angedacht zum Bibelwort im Monat Oktober'
+category = 'Angedacht'
+date = 2023-09-20T00:00:00+02:00
+show_reading_time = true
+featured_image = 'beitraege/ana-municio-stones-unsplash.jpg'
+type = 'single'
+authors = ['zieboll']
++++
 
 ## Bibelwort für den Monat Oktober
  
