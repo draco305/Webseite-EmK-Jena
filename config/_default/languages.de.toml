@@ -7,7 +7,7 @@ title = "EmK Jena und Bad Klosterlausnitz"
 # copyright = "&copy; 2023 EmK Jena und Bad Klosterlausnitz"
 
 [params]
-  dateFormat = "2. January 2006"
+  dateFormat = "January 2006"
 
   # mainSections = ["section1", "section2"]
   description = "Die Gemeinden der Evangelisch-methodistischen Kirche in Jena und Bad Klosterlausnitz"
