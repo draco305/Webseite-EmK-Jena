@@ -51,9 +51,14 @@
   weight = 20
 
 [[main]]
+  name = "Gemeindebriefe"
+  pageRef = "downloads/gemeindebrief"
+  weight = 30
+
+[[main]]
   name = "Termine"
   pageRef = "termine"
-  weight = 30
+  weight = 40
   [main.params]
     icon = "calendar-regular"
   
