@@ -2,7 +2,7 @@
 title = 'Hören und Tun ergänzen sich'
 description = 'Gedanken zum Bibelwort im Monat Oktober'
 summary = 'Der Glaube kommt aus der Predigt, aus dem Hören des Wortes. Davon ist der Apostel Paulus überzeugt. In der Seelsorge ist das aktive Zuhören sehr wichtig.'
-date = 2023-09-20T00:00:00+02:00
+date = 2023-10-01T00:00:00+02:00
 authors = ['zieboll']
 +++
 
