@@ -1,6 +1,6 @@
 +++
 title = 'Datenschutzerklärung'
-draft = true
+draft = false
 showDate = false
 type = "page"
 +++
