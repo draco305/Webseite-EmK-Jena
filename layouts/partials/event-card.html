@@ -1,0 +1,46 @@
+{{ $disableImageOptimization := .Page.Site.Params.disableImageOptimization | default false }}
+<div class="min-w-full">
+    <div class="min-h-full flex border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden relative backdrop-blur">
+        {{- $images := $.Resources.ByType "image" -}}
+        {{- $featured := $images.GetMatch "*feature*" -}}
+        {{- if not $featured }}{{ $featured = $images.GetMatch "{*cover*,*thumbnail*}" }}{{ end -}}
+        {{- if not $featured }}{{ with .Site.Params.defaultFeaturedImage }}{{ $featured = resources.Get . }}{{ end }}{{ end -}}
+        {{ if .Params.hideFeatureImage }}{{ $featured = false }}{{ end }}
+        {{- with $featured -}}
+        {{ if $disableImageOptimization }}
+        {{ with . }}
+        <div class="w-auto h-auto mr-3 thumbnailEvent nozoom" style="background-image:url({{ .RelPermalink }});"></div>
+        {{ end }}
+        {{ else }}
+        {{ with .Resize "64x" }}
+        <div class="h-auto mr-3 thumbnailEvent nozoom" style="background-image:url({{ .RelPermalink }});"></div>
+        {{ end }}
+        {{ end }}
+        {{- else -}}
+        {{- with $.Site.Params.images }}
+        <meta property="og:image" content="{{ index . 0 | absURL }}" />{{ end -}}
+        {{- end -}}
+
+        <div class="mt-0 flex flex-wrap">
+            {{ $eventDateFormat := .Page.Site.Params.Language.eventDateFormat | default "Mon 2 Jan 2006 15:04&nbsp;Uhr " }}
+            {{ $eventParams := .Params.event }}
+            {{- with $eventParams -}}
+            <time class="mr-1" datetime="{{ . }}">
+                {{- time.Format $eventDateFormat $eventParams.date | markdownify | emojify -}}
+            </time>
+            {{- end -}}
+            <a class="font-semibold mr-2 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+               href="{{ .RelPermalink }}">{{ .Title | emojify }}</a>
+            {{ $location := $eventParams.location }}
+            {{ if $location }}
+            {{ $locationIcon := resources.Get (printf "icons/location-dot-solid.svg") }}
+            <div class="relative inline-block">
+                <span class="relative inline-block align-text-bottom icon">
+                    {{ $locationIcon.Content | safeHTML }}
+                </span>
+            {{ $location }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>

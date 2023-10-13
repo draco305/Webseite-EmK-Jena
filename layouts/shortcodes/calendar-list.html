@@ -1,0 +1,8 @@
+{{ range where site.RegularPages "Type" "articles" }}
+<h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+{{ end }}
+
+{{- /* range $event := sort (where (where site.RegularPages "Type" "event") "Params.event.location" "Jena") "Params.eventDate" */ -}}
+{{ range $event := sort (where (where site.RegularPages "Type" "event") "draft" "!=" "true") "Params.event.date" }}
+{{ partial "event-card.html" $event }}
+{{end}}
