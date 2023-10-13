@@ -1,6 +1,8 @@
 +++
 title = 'Gemeindebriefe'
 description = 'Download der aktuellen Gemeindebriefe'
+showDate = false
+showReadingTime = false
 +++
 
 Hier steht Ihnen jeden Monat unser aktueller Gemeindebrief im PDF-Format zur Verfügung.

@@ -20,7 +20,7 @@
 <div id="hero" class="h-[150px] md:h-[200px]"></div>
 {{ end }}
 {{ if $heroCaption }}
-<figcaption id="heroCaption" class="text-base text-neutral-500 dark:text-neutral-400 print:hidden">{{- $heroCaption -}}</figcaption>
+<figcaption id="heroCaption" class="text-base text-neutral-500 dark:text-neutral-400 print:hidden">{{- $heroCaption | markdownify | emojify -}}</figcaption>
 {{ end }}
 {{ if $disableImageOptimization }}
     {{ with . }}

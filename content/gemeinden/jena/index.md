@@ -1,6 +1,5 @@
 +++
 title = 'Gemeinde Jena'
-draft = true
 featured_image = '/gemeinden/jena/Kreuz.jpg'
 showBreadcrumbs = true
 showDate = false
