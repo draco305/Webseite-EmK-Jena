@@ -1,14 +1,10 @@
 +++
 # Termin-Titel z.B. in der Terminübersicht
-title = "{{ replace .Name "-" " " | title }}"
-# Entwurfs-Modus
-draft = true
-# Ausgabeformate
-output = ["JSON", "html"]
+title = 'Erntedank-Gottesdienst'
 # Veröffentlichungsdatum -- Mit diesem Datum wird der Termin in der Übersicht erscheinen
-date = {{ .Date }}
+date = 2023-08-21
 # Ende der Veröffentlichung -- Nach Ablauf, wird der Termin aus der Übersicht entfernt
-expiryDate = {{ dateFormat "2006-01-02T15:04:05" ( .Date.AddDate +1 0 0) }} # expire date
+expireDate = 2023-10-02T09:00:00+02:00
 # Seitentyp: event=Termin
 type = 'event'
 [event]
@@ -16,7 +12,6 @@ type = 'event'
   location = 'Bad Klosterlausnitz'
   # Datum des Termins mit Zeitzone im Format YYYY-MM-DDTHH:MM:SS+ZZ
   date = 2023-10-01T09:00:00
-  allday = false
   # Termin-Typ für Bildauswahl
   # z.B. godi-j, godi-bkl, chor-j, posaunen-bkl, senioren-j, engl-bkl, ku
   # Ökumene: st-michael-j, johannis-j, markt-j, bkl, herm, kur-bkl
