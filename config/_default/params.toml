@@ -31,7 +31,7 @@ secondaryLogo = "logo/logo-emk-weiss.png"
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, custom
+  layout = "page" # valid options: page, profile, card, hero, background, custom
   showRecent = false
   recentLimit = 3
 
