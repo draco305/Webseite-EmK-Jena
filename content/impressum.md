@@ -40,7 +40,4 @@ mit dem [Blowfish-Theme](https://blowfish.page/) erstellt.
 
 Es werden Icons von [FontAwesome](https://fontawesome.com/) verwendet.
 
-Für den Kalender kommt die Java-Script-Bibliothek [Day.js](https://day.js.org/) 
-zum Einsatz, die unter der [MIT-Lizenz](https://opensource.org/license/mit/) steht.
-
 Das Impressum wurde erstellt mithilfe des Generators auf [e-recht24.de](https://www.e-recht24.de)
