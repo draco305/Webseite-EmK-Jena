@@ -43,7 +43,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-          ref: 'feature/produktion-zu-hugo'
+          ref: 'feature/produktiv-zu-hugo'
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
