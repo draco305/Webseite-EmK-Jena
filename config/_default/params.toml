@@ -72,7 +72,7 @@ secondaryLogo = "logo/logo-emk-weiss.png"
 
 [taxonomies]
   tag = "Stichwörter"
-  categoriy = "Katergorien"
+  categoriy = "Kategorien"
   author = "Autoren"
 
 [fathomAnalytics]
