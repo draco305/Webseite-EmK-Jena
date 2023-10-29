@@ -3,6 +3,9 @@ title = 'Gemeindebriefe'
 description = 'Download der aktuellen Gemeindebriefe'
 showDate = false
 showReadingTime = false
+summary = "In unseren Gemeindebriefen finden Sie unsere aktuellen Informationen und Termine."
+heroStyle = "background"
+heroCaption = "Foto auf Basis einer Arbeit von [Markus Winkler](https://unsplash.com/de/@markuswinkler?utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/grun-weisse-braille-schreibmaschine-ci2rHJqgC1M?utm_content=creditCopyText)"
 +++
 
 Hier steht Ihnen jeden Monat unser aktueller Gemeindebrief im PDF-Format zur Verfügung.
