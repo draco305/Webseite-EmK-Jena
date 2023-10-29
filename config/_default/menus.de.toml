@@ -70,6 +70,13 @@
 #  weight = 10
 
 [[main]]
+  name = "Kontakt"
+  pageRef = "contact"
+  weight = 50
+  pre = "paper-plane-regular"
+
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
