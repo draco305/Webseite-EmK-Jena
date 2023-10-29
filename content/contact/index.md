@@ -13,9 +13,9 @@ Nehmen Sie gerne Kontakt mit uns auf.
 {{< icon "location-dot-solid" >}} Humboldtstraße 29, 07743 Jena
 
 ### Pastor Matthias Zieboll
-{{< icon "phone" >}} [036734-239501](tel:036734-239501)  
+{{< icon "phone" >}}&nbsp;[036734-239501](tel:036734-239501)  
 
 
 ### Pastorin Christin Eibisch
-{{< icon "phone" >}} [03641-3878063](tel:03641-3878063)  
-{{< icon "paper-plane-regular" >}} E-Mail [jena@emk.de](mailto:jena@emk.de)
+{{< icon "phone" >}}&nbsp;[03641-3878063](tel:03641-3878063)  
+{{< icon "paper-plane-regular" >}}&nbsp;E-Mail [jena@emk.de](mailto:jena@emk.de)
