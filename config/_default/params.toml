@@ -89,3 +89,9 @@ fingerprintAlgorithm = "sha256"
   # bing = ""
   # pinterest = ""
   # yandex = ""
+
+[frontmatter]
+# :filename extrahiert das Datum eines Artikels aus dem Dateinamen
+# statt aus einer der date-Variablen zu entnehmen.
+# Das hilft aber nicht, um die date-Variablen im archetype zu setzen.
+  date = [':filename', ':default']
