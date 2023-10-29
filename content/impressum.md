@@ -1,6 +1,6 @@
 +++
 title = 'Impressum'
-draft = true
+draft = false
 type = "page"
 showDate = false
 showReadingTime = false
