@@ -6,16 +6,16 @@ draft = true
 # Ausgabeformate
 output = ["JSON", "html"]
 # Veröffentlichungsdatum -- Mit diesem Datum wird der Termin in der Übersicht erscheinen
-date = {{ .Date }}
+publishdate = {{ .Date }} {{ $date := .Date | time.AsTime }}
 # Ende der Veröffentlichung -- Nach Ablauf, wird der Termin aus der Übersicht entfernt
-expiryDate = {{ dateFormat "2006-01-02T15:04:05" ( .Date.AddDate +1 0 0) }} # expire date
+expiryDate = {{ dateFormat "2006-01-02T15:04:05" ( $date.AddDate 0 +1 0) }} # expire date
 # Seitentyp: event=Termin
 type = 'event'
 [event]
   # Ort z.B. in der Terminübersicht
   location = 'Bad Klosterlausnitz'
   # Datum des Termins mit Zeitzone im Format YYYY-MM-DDTHH:MM:SS+ZZ
-  date = 2023-10-01T09:00:00
+  date = {{ dateFormat "2006-01-02T15:04:05" ( .Name | title }}
   allday = false
   # Termin-Typ für Bildauswahl
   # z.B. godi-j, godi-bkl, chor-j, posaunen-bkl, senioren-j, engl-bkl, ku
