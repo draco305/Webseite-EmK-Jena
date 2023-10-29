@@ -17,6 +17,9 @@ enableImageLazyLoading = true
 enableRobotsTXT = false
 fingerprintAlgorithm = "sha256"
 
+logo = "logo/logo-emk-cmyk.png"
+secondaryLogo = "logo/logo-emk-weiss.png"
+
 [header]
   layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
   # logo = "img/logo.jpg"
