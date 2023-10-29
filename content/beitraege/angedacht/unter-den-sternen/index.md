@@ -1,5 +1,5 @@
 +++
-title = 'Unter den Sternen'
+title = 'Blickwechsel'
 publishDate = 2023-10-29 
 date = 2023-11-01
 draft = false
@@ -16,7 +16,7 @@ den Orion und das Siebengestirn und die Sterne des Südens
 >
 > -- Hiob 9,8--9
 
-## Unter den Sternen
+## Blickwechsel
 
 Liebe Schwestern und Brüder! Liebe Freunde!
 
@@ -28,10 +28,10 @@ befragt. Ich zitiere die Antwort:
 erschafft und die Sterne und Himmelskörper ordnet. Hiob ist ein Buch in der Bibel, das
 sich mit den Fragen des Leidens und der Gerechtigkeit Gottes auseinandersetzt. Diese
 Verse unterstreichen die Größe und Allmacht Gottes, während Hiob gleichzeitig mit
-seinem eigenen Leid und seiner Unverständnis für die Umstände kämpft.
+seinem eigenen Leid und seinem Unverständnis für die Umstände kämpft.
 
 Mit Leid, Ungerechtigkeit und Unverständnis sind wir Menschen täglich konfrontiert.
-Naher Osten, Ukraine, brennende Israelfahnen, persönliche Schicksalschläge,
+Naher Osten, Ukraine, brennende Israelfahnen, persönliche Schicksalsschläge,
 Umbrüche, Krankheit und Unfälle sind solche Dinge, an denen wir leiden und die wir
 nicht verstehen.
 Sie machen uns zu schaffen.
