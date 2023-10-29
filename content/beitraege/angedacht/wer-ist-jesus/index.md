@@ -4,6 +4,7 @@ description = 'Gedanken zum Bibelwort im Monat September'
 summary = 'Jesus fragt seine Jünger, was denn die Leute über ihn sagen. Er bekommt verschiedene Antworten: Johannes der Täufer, Elia, Jeremia oder einer der Propheten. Die Frage ist aber gar nicht entscheidend. Viel wichtiger ist die zweite Frage Jesu.'
 date = 2023-09-01T20:38:52+02:00
 authors = ['zieboll']
+heroCaption = 'Foto von [Ana Municio](https://unsplash.com/@lamunix?utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/photos/gray-and-brown-stones-on-gray-ground-PbzntH58GLQ?utm_content=creditCopyText)'
 +++
 
 ## Bibelwort für den Monat September
