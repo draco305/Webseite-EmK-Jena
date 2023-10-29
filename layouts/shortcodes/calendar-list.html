@@ -1,8 +1,15 @@
+{{ $cat := $.Get 0 }}
 {{ range where site.RegularPages "Type" "articles" }}
 <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
 {{ end }}
 
 {{- /* range $event := sort (where (where site.RegularPages "Type" "event") "Params.event.location" "Jena") "Params.eventDate" */ -}}
+{{ if $cat }}
+{{ range $event := sort (where (where site.RegularPages "Type" "event") "Params.event.type" $cat) "Params.event.date" }}
+{{ partial "event-card.html" $event }}
+{{ end }}
+{{ else }}
 {{ range $event := sort (where (where site.RegularPages "Type" "event") "draft" "!=" "true") "Params.event.date" }}
 {{ partial "event-card.html" $event }}
-{{end}}
+{{ end }}
+{{ end }}
