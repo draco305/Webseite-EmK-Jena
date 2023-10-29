@@ -1,7 +1,7 @@
 +++
 title = 'Gemeinde Jena'
 featured_image = '/gemeinden/jena/Kreuz.jpg'
-showBreadcrumbs = true
+showBreadcrumbs = false
 showDate = false
 summary = "1973 bezog unsere Evangelisch-methodistische Gemeinde ihr Haus im Westeviertel der Stadt Jena. Eine große Freude war das, denn die Gemeinde musste bis dahin in einem gemieteten Saal ihr Gemeindeleben gestalten. Nun konnte endlich ein lang ersehntes eigenes Zuhause bezogen werden. Darum packten alle mit an, um das um 1910 errichtete Wohngebäude, für die Gemeinde aus- und umzubauen."
 heroCaption = 'Fenster des Gemeindehauses mit Kreuz – &copy; EmK Jena'
