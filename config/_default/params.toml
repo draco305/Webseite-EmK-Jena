@@ -54,7 +54,7 @@ secondaryLogo = "logo/logo-emk-weiss.png"
   showTaxonomies = true
   showWordCount = false
   showComments = false
-  sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
+  #sharingLinks = ["facebook", "twitter", "mastodon", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
   showBreadcrumbs = false
