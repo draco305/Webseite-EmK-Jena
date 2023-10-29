@@ -2,7 +2,7 @@
 title = 'Anfangen und Aufhören'
 publishDate = 2023-11-01T11:16:07+02:00 
 date = 2023-12-01T11:16:07+02:00
-draft = true
+draft = false
 authors = ['eibisch']
 summary = 'Was fällt Ihnen schwerer: anfangen oder aufhören? so lautet eine Frage bei _mdr-Kultur_, wenn Menschen in einem Kurzporträt vorgestellt werden. Was würden Sie, was würdest Du auf diese Frage antworten?'
 heroCaption = '[Peter Johann Brandl](https://de.wikipedia.org/wiki/Peter_Johann_Brandl): Hl. Simeon mit dem kleinen Jesus'
