@@ -18,8 +18,8 @@ enableImageLazyLoading = true
 enableRobotsTXT = false
 fingerprintAlgorithm = "sha256"
 
-logo = "logo/logo-emk-cmyk.png"
-secondaryLogo = "logo/logo-emk-weiss.png"
+logo = "logo/Logo-EmK-CMYK.png"
+secondaryLogo = "logo/Logo-EmK-weiss.png"
 
 [header]
   layout = "fixed-fill-blur" # valid options: basic, hamburger, hybrid, custom
