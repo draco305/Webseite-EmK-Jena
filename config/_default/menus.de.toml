@@ -74,7 +74,7 @@
   name = "Kontakt"
   pageRef = "contact"
   weight = 50
-  pre = "paper-plane-regular"
+  #pre = "paper-plane-regular"
 
 
 [[main]]
