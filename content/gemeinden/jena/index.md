@@ -4,9 +4,8 @@ featured_image = '/gemeinden/jena/Kreuz.jpg'
 showBreadcrumbs = false
 showDate = false
 summary = "1973 bezog unsere Evangelisch-methodistische Gemeinde ihr Haus im Westeviertel der Stadt Jena. Eine große Freude war das, denn die Gemeinde musste bis dahin in einem gemieteten Saal ihr Gemeindeleben gestalten. Nun konnte endlich ein lang ersehntes eigenes Zuhause bezogen werden. Darum packten alle mit an, um das um 1910 errichtete Wohngebäude, für die Gemeinde aus- und umzubauen."
-heroCaption = 'Fenster des Gemeindehauses mit Kreuz – &copy; EmK Jena'
+heroCaption = 'Fenster des Gemeindehauses mit Kreuz'
 +++
-<!-- showBreadcrumbs: true -->
 
 ## Porträt unserer Gemeinde
 
@@ -18,13 +17,13 @@ heroCaption = 'Fenster des Gemeindehauses mit Kreuz – &copy; EmK Jena'
 1973 bezog unsere Evangelisch-methodistische Gemeinde ihr Haus im Westeviertel der Stadt Jena. Eine große Freude war das, denn die Gemeinde musste bis dahin in einem gemieteten Saal ihr Gemeindeleben gestalten. Nun konnte endlich ein lang ersehntes eigenes Zuhause bezogen werden. Darum packten alle mit an, um das um 1910 errichtete Wohngebäude, für die Gemeinde aus- und umzubauen.
 
 ### Eine runde Sache
-![Fenster mit Kreuz](/gemeinden/jena/Kreuz.jpg)
+![Fenster mit Kreuz](fenster.jpg "Rundes Fenster mit bunten Glasbruchstücken und Kreuz")
 
 Dabei erhielt das Haus ein auffälliges rundes Glasfenster. Rote, blaue, gelbe, grüne und farblose Bruchstücke aus Glas bilden, trotz ihrer unterschiedlichen, zufälligen Formen ein großes Rund. Darauf liegt, von Innen und auch auf der Fassade des Hauses, ein Kreuz. Beides versteht die Gemeinde als ein Sinnbild für sich. Aus unterschiedlichen Menschen, die sich mit ihren Erfahrung und Begabungen einbringen, ebenso wie mit ihren Fragen und ihrer Not, wird doch eine runde Sache. Dies geschieht, weil das Kreuz, der Glaube an Jesus Christus, die gemeinsame Orientierung für alle ist. So wird die menschliche Gemeinschaft für Gottes Licht durchlässig.
 
 ### John-Wesley-Haus
 
-![Schrift](/gemeinden/jena/Schrift.jpg)
+![Schrift](schrift-john-wesley-haus.jpg "Aufschrift John-Wesley-Haus")
 
 Die evangelisch-methodistische Gemeinde hat ihr Zuhause bei der Einweihung 1973 mit Bedacht _John-Wesley-Haus_ genannt. Der englische Dozent und Pfarrer John Wesley war die prägendste Person der Erweckungsbewegung, die im 18.&#x202F;Jahrhundert zunächst als Methodisten beschimpft, dann doch weltweit ihre Wirkung entfaltete und so zu einer ganzen Kirchenfamilie wurde. An die Ursprünge dieser Erweckungsbewegung knüpft die Gemeinde auch heute an. Lebendiger Glaube und Vernunft, familiäre Geborgenheit und Engagement in der Gesellschaft, eigene, lebendige Tradition und ökumenische Verbundenheit sind die Koordinaten des Gemeindelebens, dessen Mitte die persönliche Beziehung zu Jesus Christus ist.
 
