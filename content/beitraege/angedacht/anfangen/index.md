@@ -6,7 +6,7 @@ draft = false
 authors = ['eibisch']
 summary = 'Was fällt Ihnen schwerer: anfangen oder aufhören? so lautet eine Frage bei _mdr-Kultur_, wenn Menschen in einem Kurzporträt vorgestellt werden. Was würden Sie, was würdest Du auf diese Frage antworten?'
 heroCaption = '[Peter Johann Brandl](https://de.wikipedia.org/wiki/Peter_Johann_Brandl): Hl. Simeon mit dem kleinen Jesus'
-heroStyle = 'big'
+heroStyle = 'background'
 +++
 
 ## Bibelwort für den Monat Dezember
@@ -39,6 +39,8 @@ was wir durch sie geschenkt bekamen: Angehörige, Menschen aus dem
 Freundes- und Bekanntenkreis, der Nachbarschaft. Und wir gehen in die
 Adventszeit, vorbereitend auf das Weihnachtsfest mit Freude, Sehnsucht
 nach… Ja, was für eine Sehnsucht spüren Sie, spürst Du in Dir?
+
+![Simeon-mit-dem-kleinen-Jesus](featured-Simeon-mit-Jesusbaby-Petr-Brandl.jpg "[Peter Johann Brandl](https://de.wikipedia.org/wiki/Peter_Johann_Brandl): Hl. Simeon mit dem kleinen Jesus")
 
 Mich berührt die Begegnung des alten Mannes Simeon, der das Jesusbaby in
 den Armen hält: „Meine Augen haben deinen Heiland gesehen, das Heil, das du bereitet hast vor allen Völkern.“ (Lk 30f) Sein gesamtes Leben findet in
