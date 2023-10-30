@@ -16,7 +16,8 @@
 #  weight = 10
 
 [[main]]
-  name = "Gemeinde Jena"
+  #name = "Jena"
+  name = "Gemeinde"
   pageRef = "gemeinden/jena"
   #parent = "Gemeinden"
   weight = 10
