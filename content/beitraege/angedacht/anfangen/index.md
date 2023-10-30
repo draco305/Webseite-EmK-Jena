@@ -1,7 +1,7 @@
 +++
 title = 'Anfangen und Aufhören'
-publishDate = 2023-11-01T11:16:07+02:00 
-date = 2023-12-01T11:16:07+02:00
+publishDate = 2023-10-30T06:15:07+01:00 
+date = 2023-12-01T11:16:07+01:00
 draft = false
 authors = ['eibisch']
 summary = 'Was fällt Ihnen schwerer: anfangen oder aufhören? so lautet eine Frage bei _mdr-Kultur_, wenn Menschen in einem Kurzporträt vorgestellt werden. Was würden Sie, was würdest Du auf diese Frage antworten?'
