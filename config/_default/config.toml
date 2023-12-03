@@ -7,6 +7,7 @@ defaultContentLanguage = "de"
 title = "EmK Jena und Bad Klosterlausnitz"
 theme = "blowfish"
 enableRobotsTXT = true
+uglyURLs = true
 paginate = 10
 summaryLength = 0
 
