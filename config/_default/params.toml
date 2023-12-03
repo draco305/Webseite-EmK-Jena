@@ -18,6 +18,8 @@ enableImageLazyLoading = true
 enableRobotsTXT = false
 fingerprintAlgorithm = "sha256"
 
+disableImageOptimization = false
+
 logo = "logo/Logo-EmK-CMYK.png"
 secondaryLogo = "logo/Logo-EmK-weiss.png"
 
