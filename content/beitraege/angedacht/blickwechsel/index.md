@@ -2,6 +2,7 @@
 title = 'Blickwechsel'
 publishDate = 2023-10-29 
 date = 2023-11-01
+expiryDate = 2024-01-15
 draft = false
 authors = ['zieboll']
 heroCaption = 'Foto von [Joran Quinten](https://unsplash.com/@joranquinten?utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/%EC%9D%80%ED%95%98%EC%88%98-%EC%B6%9C%EB%B0%9C-%EB%A0%88%EC%9D%BC-%EC%95%9E%EC%97%90-%EC%84%9C-%EC%9E%88%EB%8A%94-%EC%82%AC%EB%9E%8C-jbuGpAMvKXg?utm_content=creditCopyText)'
