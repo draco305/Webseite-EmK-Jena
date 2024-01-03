@@ -15,7 +15,7 @@ enableCodeCopy = false
 enableImageLazyLoading = true
 
 # robots = ""
-enableRobotsTXT = false
+enableRobotsTXT = true
 fingerprintAlgorithm = "sha256"
 
 disableImageOptimization = false
@@ -33,7 +33,7 @@ secondaryLogo = "logo/Logo-EmK-weiss.png"
   showScrollToTop = true
 
 [homepage]
-  layout = "page" # valid options: page, profile, card, hero, background, custom
+  layout = "betterplace" # valid options: page, profile, card, hero, background, custom
   showRecent = false
   recentLimit = 3
 
