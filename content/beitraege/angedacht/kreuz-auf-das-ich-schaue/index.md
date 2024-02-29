@@ -7,7 +7,7 @@ draft = false
 authors = ['eibisch']
 heroCaption = 'Foto von Frank Eibisch'
 heroStyle = 'background'
-summary = ""
+summary = "In der _Wiege von Brandenburg_ habe ich dieses Kreuz entdeckt, im Dom _St.&#8239;Peter und Paul_ zu Brandenburg an der Havel. Es ist ein Triumphkreuz aus der Gotik. An prominenter Stelle wurde es hoch oben im Triumphbogen aufgerichtet. Christus ist weit weg. Ich setze mich und blicke hinauf."
 +++
 
 ## Bibelwort für den Monat März
