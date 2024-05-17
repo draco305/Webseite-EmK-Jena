@@ -1,4 +1,5 @@
 +++
+slug = "ein-guter-vorsatz"
 title = "Ein guter Vorsatz"
 publishDate = 2023-12-31
 date = 2024-01-03

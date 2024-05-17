@@ -1,8 +1,9 @@
 +++
+slug = 'kreuz-auf-das-ich-schaue'
 title = 'Kreuz, auf das ich schaue'
 publishDate = 2024-02-28 
 date = 2024-03-01
-expiryDate = 2024-05-15
+expiryDate = 2024-05-20
 draft = false
 authors = ['eibisch']
 heroCaption = 'Foto von Frank Eibisch'
