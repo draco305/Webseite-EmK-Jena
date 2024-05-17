@@ -12,12 +12,12 @@ Hier steht Ihnen jeden Monat unser aktueller Gemeindebrief im PDF-Format zur Ver
 
 ### Aktueller Gemeindebrief
 
-* [März und April 2024](/pdf/2024-03-online.pdf)
+* [Mai und Juni 2024](/pdf/2024-05-online.pdf)
 
 ### Letzte Gemeindebriefe
 
+* [März und April 2024](/pdf/2024-03-online.pdf)
 * [Januar und Februar 2024](/pdf/2024-01-online.pdf)
 * [November und Dezember 2023](/pdf/2023-11-online.pdf)
-* [September und Oktober 2023](/pdf/2023-09-online.pdf)
 
 Um PDF-Dateien zu öffnen, benötigen Sie einen PDF-Betrachter wie den kostenlosen [Adobe Acrobate Reader DC](http://get.adobe.com/de/reader/).
