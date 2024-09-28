@@ -1,8 +1,6 @@
 # ignore build folder
 resources/_gen/
 public
-/public/*
-public/*
 
 # ignore ide specific folders
 .idea/
