@@ -5,4 +5,4 @@ description = 'Evangelisch-methodistische Kirche in Jena'# und Bad Klosterlausni
 
 {{< list limit=2 where="Type" value="angedacht" title="Angedacht">}}
 
-{{< list limit=1 where="Type" value="downloads" title="Aktuelles">}}
+{{< list limit=1 where="Type" value="aktuelles" title="Aktuelles">}}

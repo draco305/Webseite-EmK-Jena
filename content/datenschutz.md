@@ -25,7 +25,7 @@ Der Websitebetreiber bzw. Seitenprovider erhebt Daten über Zugriffe auf die Sei
 * Verwendetes Betriebssystem
 * Verwendete IP-Adresse
 
-Die erhobenen Daten dienen lediglich statistischen Auswertungen und zur Verbesserung der Website. Der Websitebetreiber behält sich allerdings vor, die Server-Logfiles nachträglich zu überprüfen, sollten konkrete Anhaltspunkte auf eine rechtswidrige Nutzung hinweisen.
+Die erhobenen Daten dienen lediglich statistischen Auswertungen. Der Websitebetreiber behält sich allerdings vor, die Server-Logfiles nachträglich zu überprüfen, sollten konkrete Anhaltspunkte auf eine rechtswidrige Nutzung hinweisen.
  
 ## Cookies
 
@@ -48,10 +48,20 @@ Nehmen Sie mit dem Websitebetreiber durch die angebotenen Kontaktmöglichkeiten 
 
 Sie als Nutzer erhalten auf Antrag Ihrerseits kostenlose Auskunft darüber, welche personenbezogenen Daten über Sie gespeichert wurden. Sofern Ihr Wunsch nicht mit einer gesetzlichen Pflicht zur Aufbewahrung von Daten (z. B. Vorratsdatenspeicherung) kollidiert, haben Sie ein Anrecht auf Berichtigung falscher Daten und auf die Sperrung oder Löschung Ihrer personenbezogenen Daten.
 
+## Kalender.digital
 
+Unsere Webseite verwendet die Online-Kalender-Anwendung [Kalender.digital](https://Kalender.digital), um Sie über unsere anstehenden Termine zu informieren.
+
+Bei der Nutzung von Kalender.digital werden Informationen über die Nutzung unserer Internetseite einschließlich Ihrer anonymisierten IP-Adresse und die von Ihnen bei Kalender.digital eingegeben Daten auf dem Kalender.digital Server gespeichert.
+
+Sie können eine solche Datenübertragung jedoch verhindern, wenn Sie in Ihrem Browser _Javascript_ deaktivieren. In dem Falle können jedoch keine Termine angezeigt werden.
+
+Weitere Informationen darüber wie Kalender.digital Ihre Daten verwendet finden Sie unter: [kalender.digital/c/privacy](https://kalender.digital/c/privacy)
+
+Rechtsgrundlage ist Artikel 6 Absatz 1 Satz 1 f) Datenschutzgrundverordnung, denn die Verarbeitung der Daten dient der Wahrung unseres berechtigten Interesses an der Verbesserung der Nutzererfahrung sowie der Bewerbung und Darstellung unserer Leistungen.
 
 ## Datenschutzbeauftragter
 
 Pastor Matthias Zieboll
 
-E-Mail: [Jena-Weimar@EmK.de](mailto:jena-weimar@emk.de)
+E-Mail: [jena@emk.de](mailto:jena@emk.de)

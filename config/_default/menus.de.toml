@@ -54,7 +54,7 @@
 
 [[main]]
   name = "Gemeindebriefe"
-  pageRef = "downloads/gemeindebrief"
+  pageRef = "aktuelles/gemeindebrief"
   weight = 30
 
 #[[main]]
