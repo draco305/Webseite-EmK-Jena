@@ -9,7 +9,6 @@ authors = ['zieboll']
 heroCaption = 'Foto von [Kris-Mikael Krister](https://unsplash.com/de/@kmkr?utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/grauhai-umgeben-von-fischen-qSR0KbeNbtk?utm_content=creditCopyText)'
 heroStyle = 'background'
 summary = "Nur weil viele Menschen bei einer Sache mitmachen, ist das, was sie tun, noch nicht automatisch gut. Eine Gruppe kann eine ganz eigene Dynamik entfalten, der sich manchmal schwer zu entziehen ist. "
-weight = 10
 +++
 
 ## Bibelwort für den Monat Juli
