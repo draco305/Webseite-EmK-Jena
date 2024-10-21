@@ -6,7 +6,7 @@ showReadingTime = false
 summary = "Hier finden Sie unsere aktuellen Termine."
 heroStyle = "background"
 heroCaption = "Foto von [charlesdeluvio](https://unsplash.com/de/@charlesdeluvio?utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/schwarz-weiss-10-druck-ew3sC-F6d_c?utm_content=creditCopyText)"
-weight=10
+weight=30
 publishDate = 2024-09-26
 date = 2100-01-01
 +++
