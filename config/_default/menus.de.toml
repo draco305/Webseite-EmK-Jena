@@ -10,50 +10,72 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "Gemeinden"
-  pageRef = "gemeinden"
-  weight = 10
+#[[main]]
+#  name = "Gemeinden"
+#  pageRef = "gemeinden"
+#  weight = 10
 
 [[main]]
-  name = "Jena"
+  #name = "Jena"
+  name = "Gemeinde"
   pageRef = "gemeinden/jena"
-  parent = "Gemeinden"
+  #parent = "Gemeinden"
   weight = 10
   
-[[main]]
-  name = "Bad Klosterlausnitz"
-  pageRef = "gemeinden/klosterlausnitz"
-  parent = "Gemeinden"
-  weight = 20
+#[[main]]
+#  name = "Bad Klosterlausnitz"
+#  pageRef = "gemeinden/klosterlausnitz"
+#  parent = "Gemeinden"
+#  weight = 20
   
-[[main]]
-  name = "Pastoren"
-  pageRef = "gemeinden/pastoren"
-  parent = "Gemeinden"
-  weight = 30
+#[[main]]
+#  name = "Pastoren"
+#  pageRef = "gemeinden/pastoren"
+#  parent = "Gemeinden"
+#  weight = 30
 
-[[main]]
-  name = "Beiträge"
-  pageRef = "beitraege"
-  weight = 20
+#[[main]]
+#  name = "Beiträge"
+#  pageRef = "beitraege"
+#  weight = 20
 
 [[main]]
   name = "Angedacht"
   pageRef = "beitraege/angedacht"
-  parent = "Beiträge"
-  weight = 10
-  
-[[main]]
-  name = "Aus dem Gemeindeleben"
-  pageRef = "beitraege/gemeindeleben"
-  parent = "Beiträge"
+  #parent = "Beiträge"
+  #weight = 10
   weight = 20
+
+#[[main]]
+#  name = "Aus dem Gemeindeleben"
+#  pageRef = "beitraege/gemeindeleben"
+#  parent = "Beiträge"
+#  weight = 20
 
 [[main]]
   name = "Gemeindebriefe"
   pageRef = "aktuelles/gemeindebrief"
   weight = 30
+
+#[[main]]
+#  name = "Termine"
+#  pageRef = "termine"
+#  weight = 40
+#  [main.params]
+#    icon = "calendar-regular"
+
+#[[main]]
+#  name = "Kalender"
+#  pageRef = "termine/kalender"
+#  parent = "Termine"
+#  weight = 10
+
+[[main]]
+  name = "Kontakt"
+  pageRef = "contact"
+  weight = 50
+  #pre = "paper-plane-regular"
+
 
 [[main]]
   identifier = "search"
@@ -61,11 +83,11 @@
   [main.params]
     action = "search"
 
-[[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
+#[[main]]
+#  identifier = "locale"
+#  weight = 100
+#  [main.params]
+#    action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

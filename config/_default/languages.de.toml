@@ -3,14 +3,15 @@ languageName = "Deutsch"
 languageDirection = "ltr"
 weight = 1
 
-title = "EmK Jena und Bad Klosterlausnitz"
-# copyright = "&copy; 2023 EmK Jena und Bad Klosterlausnitz"
+title = "EmK Jena"# und Bad Klosterlausnitz"
+copyright = "&copy; 2023 EmK Jena"# und Bad Klosterlausnitz"
 
 [params]
   dateFormat = "January 2006"
 
   # mainSections = ["section1", "section2"]
-  description = "Die Gemeinden der Evangelisch-methodistischen Kirche in Jena und Bad Klosterlausnitz"
+  description = "Die Gemeinde der Evangelisch-methodistischen Kirche in Jena"
+  #description = "Die Gemeinden der Evangelisch-methodistischen Kirche in Jena und Bad Klosterlausnitz"
 
 [author]
   # name = "Your name here"
