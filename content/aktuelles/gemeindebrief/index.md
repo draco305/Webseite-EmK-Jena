@@ -1,5 +1,6 @@
 +++
 title = 'Gemeindeinfos und Termine'
+aliases = ['\downloads\gemeindebrief']
 description = 'Download der aktuellen Info-Briefe und Terminkalender'
 showDate = false
 showReadingTime = false
