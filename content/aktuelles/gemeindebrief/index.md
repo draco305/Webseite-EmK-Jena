@@ -12,7 +12,9 @@ publishDate = 2023-01-01
 date = 2099-12-31
 +++
 
-Hier stehen Ihnen jeden Monat unser aktueller Info-Brief und der Terminkalender im PDF-Format zur Verfügung.
+Hier soll jeden Monat unser aktueller Info-Brief und der Terminkalender im PDF-Format zur Verfügung stehen. 
+Leider gibt es derzeit technische Schwierigkeiten, die Informationen immer zeitnah zu aktualisieren.
+Sollte einmal etwas nicht aktuell sein, gibt es die neuesten Informationen z.B. auch in der [WhatsApp-Community](https://chat.whatsapp.com/EzUGZYr8imW58DTiCAvbft).
 
 ### Schneller an neue Informationen
 
