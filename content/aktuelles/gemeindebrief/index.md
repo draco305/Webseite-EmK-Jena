@@ -36,16 +36,17 @@ Grundsätzlich darf der Info-Brief an Interessierte weitergeleitet werden.
 
 ### Aktuelle Informationen
 
-* [Info-Brief Oktober 2024](/pdf/InfoBrief-2024-06.pdf)
-* [Kalender Oktober 2024](/pdf/Termine-2024-10-A5.pdf)
+* [Info-Brief November 2024](/pdf/InfoBrief-2024-07.pdf)
+* [Kalender November 2024](/pdf/Termine-2024-11-A5.pdf)
 
 ### Letzte Gemeindebriefe
 
+* [Info-Brief Oktober 2024](/pdf/InfoBrief-2024-06.pdf)
+* [Kalender Oktober 2024](/pdf/Termine-2024-10-A5.pdf)
 * [Info-Brief September 2024](/pdf/InfoBrief-2024-05.pdf)
 * [Kalender September 2024](/pdf/Termine-2024-09A5.pdf)
 * [Info-Brief Juli und August 2024](/pdf/InfoBrief-2024-04.pdf)
 * [Kalender Juli und August 2024](/pdf/Anl1-Termine-2024-07-08A5.pdf)
 * [Mai und Juni 2024](/pdf/2024-05-online.pdf)
-* [März und April 2024](/pdf/2024-03-online.pdf)
 
 Um PDF-Dateien zu öffnen, benötigen Sie einen PDF-Betrachter wie den kostenlosen [Adobe Acrobate Reader DC](http://get.adobe.com/de/reader/).
