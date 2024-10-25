@@ -8,7 +8,12 @@ draft = false
 authors = ['eibisch']
 heroCaption = 'Foto von [mtsjrdl](https://unsplash.com/de/@mtsjrdl?utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/weisser-holzzaun-auf-grunem-grasfeld-tagsuber-Gu3T3GwfwMo?utm_content=creditCopyText)'
 heroStyle = 'background'
-summary = "Wenn du vernünftig bist, erweise dich als Schale und nicht als Kanal, der fast gleichzeitig empfängt und weitergibt, während jene wartet, bis sie gefüllt ist. Auf diese Weise gibt sie das, was bei ihr überfließt, ohne eigenen Schaden weiter. Lerne auch du, nur aus der Fülle auszugießen und habe nicht den Wunsch freigiebiger zu sein als Gott."
+summary = """Im schönsten Sommerwetter kamen mein Mann und ich auf unserer
+Urlaubsfahrt durch Frankreichs Norden an vielen Kriegsgräbern vorbei.
+
+Von deren Existenz wußte ich. Wir sahen gepflegte Wiesen mit unzähligen weißen Kreuzen.
+Es sind Denkstätten für die im 1.&#8239;Weltkrieg gefallenen Soldaten. 
+Was für ein Wahnsinn! Mir kam ein Lied von Hannes Wader in den Sinn."""
 smartTOC = false
 showTableOfContents = false
 +++
