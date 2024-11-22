@@ -16,6 +16,9 @@ Details zu besonderen Veranstaltungen und den aktuellen Kalender zum Ausdrucken 
 Weiter unten finden Sie auch noch die Links zum Abonnieren der Kalender.
 
 ### Kalender
+* {{< mybadge badgeColor="#5F497A" textColor="white" >}} Termine in Jena {{< /mybadge >}}
+* {{< mybadge badgeColor="#E36C09" textColor="white" >}} Termine in Bad Klosterlausnitz {{< /mybadge >}}
+* [Kalender im Vollbild](https://kalender.digital/8544cc16e2aecc8756b4)
 
 <!-- sandbox hält das iframe gefangen und gibt nur so viele Rechte wie nötig. In diesem Falle werden Skripte benötigt. 
 Weitere Informationen unter https://blog.logrocket.com/ultimate-guide-iframes/ -->

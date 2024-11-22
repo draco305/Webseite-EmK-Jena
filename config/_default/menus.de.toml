@@ -52,29 +52,34 @@
 #  parent = "Beiträge"
 #  weight = 20
 
+
 [[main]]
-  name = "Gemeindebriefe"
+  name = "Termine"
+  pageRef = "Termine"
+  weight = 40
+  [main.params]
+    icon = "calendar-regular"
+
+[[main]]
+  name = "Kalender"
+  pageRef = "aktuelles/kalender"
+  parent = "Termine"
+  weight = 20
+  #[[main.params]]
+  #  icon = "calendar-regular"
+
+[[main]]
+name = "Gemeindebriefe"
   pageRef = "aktuelles/gemeindebrief"
-  weight = 30
-
-#[[main]]
-#  name = "Termine"
-#  pageRef = "termine"
-#  weight = 40
-#  [main.params]
-#    icon = "calendar-regular"
-
-#[[main]]
-#  name = "Kalender"
-#  pageRef = "termine/kalender"
-#  parent = "Termine"
-#  weight = 10
+  parent = "Termine"
+  weight = 10
 
 [[main]]
   name = "Kontakt"
   pageRef = "contact"
   weight = 50
-  #pre = "paper-plane-regular"
+  #[[main.params]]
+  #  icon = "paper-plane-regular"
 
 
 [[main]]
