@@ -12,7 +12,7 @@ date = 2100-01-01
 +++
 
 Hier stehen Ihnen stets unsere aktuellen Termine zur Verfügung. 
-Details zu besonderen Veranstaltungen und den aktuellen Kalender zum Ausdrucken gibt es im [Gemeindebrief]({{< ref "gemeindebrief" >}}).
+Details zu besonderen Veranstaltungen und den aktuellen Kalender zum Ausdrucken gibt es im [Gemeindebrief]({{< relref "aktuelles/gemeindebrief" >}}).
 Weiter unten finden Sie auch noch die Links zum Abonnieren der Kalender.
 
 ### Kalender

@@ -20,10 +20,10 @@ Sollte einmal etwas nicht aktuell sein, gibt es die neuesten Informationen z.B. 
 
 In der [{{< icon "whatsapp" >}}&#8239;WhatsApp-Community](https://chat.whatsapp.com/EzUGZYr8imW58DTiCAvbft) bekommen Sie immer die neuen Info-Briefe und Kalender zugeschickt. 
 Auch per E-Mail werden die Informationen verteilt. 
-Dafür einfach eine [{{< icon "paper-plane-regular" >}}&#8239;E-Mail an unsere Pastoren schicken]({{< ref "/contact" >}}).
+Dafür einfach eine [{{< icon "paper-plane-regular" >}}&#8239;E-Mail an unsere Pastoren schicken]({{< relref "contact" >}} "Kontakt").
 
 Manchmal ändern sich Termine nachdem die Gemeinde-Informationen geschrieben und die Kalender gedruckt wurden. 
-Der [{{< icon "calendar-regular" >}}&#8239;Online-Kalender]({{< ref "/aktuelles/kalender" >}}) wird jedoch stets aktuell gehalten.
+Der [{{< icon "calendar-regular" >}}&#8239;Online-Kalender]({{< relref "aktuelles/kalender" >}} "Termine im Kalender") wird jedoch stets aktuell gehalten.
 
 Eine kleine Arbeitsgruppe nimmt gern Anregungen und Rückmeldungen auf. Bitte sprecht Gabi S,
 Andreas R, Erik B oder Christin E an. Zum Info-Brief gehört eine Übersicht über die aktuellen
