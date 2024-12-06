@@ -1,0 +1,31 @@
+<span class="flex" style="cursor: pointer;">
+  <span
+              class="px-1 py-[1px] text-xs font-normal rounded-md"
+              {{ with (.Get "badgeColor") }}style="background-color: {{ . }}"{{ end }}
+  >
+    <span
+            {{ with (.Get "textColor") }}style="color: {{ . }}"{{ end }}
+    >
+      {{ .Inner | emojify | markdownify }}
+    </span>
+  </span>
+</span>
+
+<!--
+<span class="flex">
+  <span class="px-1 py-[1px] text-xs font-normal rounded-md"
+        {{ if not ($.Scratch.Get "badgeColor") }}
+  {{ else }}
+    style="background-color: {{ $.Scratch.Get "badgeColor" }}"
+  {{ end }}
+  >
+    <span
+            {{ if not ($.Scratch.Get "badgeColor") }}
+  {{ else }}
+    style="color: {{ $.Scratch.Get "textColor" }}"
+    {{end}}>
+    {{- .Inner | markdownify -}}
+    </span>
+</span>
+</span>
+-->
